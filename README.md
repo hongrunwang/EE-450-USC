@@ -8,7 +8,6 @@ First name: Hongrun
 
 Last name: Wang
 
-Student ID: 3500038621
 
 ****
 
